@@ -6,14 +6,15 @@
 ## Statelayout 界面状态类
 ### 作者博客: [@wsdbssxq](http://blog.csdn.net/wsdbssxq?viewmode=contents)
 
-####在app使用中会经常切换界面状态，比如，加载中，加载失败，网络错误等等，所以封装了一个工具类。
+ 在app使用中会经常切换界面状态，比如，加载中，加载失败，网络错误等等，所以封装了一个工具类。
 
-###截图：
+ 截图：
 
-<img src=" https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=300 height=500 />
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=100 height=200 />
 
-<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=300 height=500 />
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=100 height=150 />
 
+<gif src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/2017-04-20_16_18_29.gif" width=300 />
 
 # 如何添加
 ### Gradle
