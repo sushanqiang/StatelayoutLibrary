@@ -14,7 +14,7 @@
 
 <img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=200 height=400 />
 
-<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/2017-04-20_16_18_29.gif" width=300 height=400/>
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/2017-04-20_16_18_29.gif" width=300 height=500/>
 
 # 如何添加
 ### Gradle
@@ -61,7 +61,7 @@ v1.0.0 | 创建statelayout,让界面状态变得更加容易操作。
 
 ## About Me
 
-<a href="http://blog.csdn.net/wsdbssxq?viewmode=contents" target="_blank"> <img src="http://avatar.csdn.net/C/5/3/1_wsdbssxq.jpg" width=300 height=100 /> </a>
+<a href="http://blog.csdn.net/wsdbssxq?viewmode=contents" target="_blank"> <img src="http://avatar.csdn.net/C/5/3/1_wsdbssxq.jpg" width=200 height=100 /> </a>
 
 # License
 ```
