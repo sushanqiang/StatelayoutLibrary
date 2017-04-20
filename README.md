@@ -10,11 +10,11 @@
 
  截图：
 
-<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=100 height=200 />
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=200 height=400 />
 
-<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=100 height=150 />
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=200 height=400 />
 
-<gif src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/2017-04-20_16_18_29.gif" width=300 />
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/2017-04-20_16_18_29.gif" width=300 height=400/>
 
 # 如何添加
 ### Gradle
