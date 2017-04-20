@@ -1,15 +1,18 @@
-# <img src="http://ww2.sinaimg.cn/large/005Xtdi2jw1f2jqaxc47fj3074074mxf.jpg" width=32 /> SUtil
+# <img src="http://ww2.sinaimg.cn/large/005Xtdi2jw1f2jqaxc47fj3074074mxf.jpg" width=32 /> Statelayout
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![](https://jitpack.io/v/GcsSloop/SUtil.svg)](https://jitpack.io/#GcsSloop/SUtil)
+[![](https://jitpack.io/v/sushanqiang/StatelayoutLibrary.svg)](https://jitpack.io/#sushanqiang/StatelayoutLibrary)
 
 ## Statelayout 界面状态类
 ### 作者博客: [@wsdbssxq](http://blog.csdn.net/wsdbssxq?viewmode=contents)
 
 ####在app使用中会经常切换界面状态，比如，加载中，加载失败，网络错误等等，所以封装了一个工具类。
+
 ###截图：
-<img src=" https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=400 height=700 />
-<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=400 height=700 />
+
+<img src=" https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155733.png" width=300 height=500 />
+
+<img src="https://github.com/sushanqiang/StatelayoutLibrary/blob/master/img/Screenshot_20170420-155743.png" width=300 height=500 />
 
 
 # 如何添加
