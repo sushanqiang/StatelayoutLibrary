@@ -61,7 +61,7 @@ v1.0.0 | 创建statelayout,让界面状态变得更加容易操作。
 
 ## About Me
 
-<a href="http://blog.csdn.net/wsdbssxq?viewmode=contents" target="_blank"> <img src="http://avatar.csdn.net/C/5/3/1_wsdbssxq.jpg" width=200 height=100 /> </a>
+<a href="http://blog.csdn.net/wsdbssxq?viewmode=contents" target="_blank"> <img src="http://avatar.csdn.net/C/5/3/3_wsdbssxq.jpg" width=200 height=100 /> </a>
 
 # License
 ```
