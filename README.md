@@ -4,7 +4,7 @@
 [![](https://jitpack.io/v/sushanqiang/StatelayoutLibrary.svg)](https://jitpack.io/#sushanqiang/StatelayoutLibrary)
 
 ## Statelayout 界面状态类
-### 作者博客: [@wsdbssxq](http://blog.csdn.net/wsdbssxq/article/details/70272703)
+### 作者博客: [wsdbssxq的博客](http://blog.csdn.net/wsdbssxq/article/details/70272703)
 
  在app使用中会经常切换界面状态，比如，加载中，加载失败，网络错误等等，所以封装了一个工具类。
 
